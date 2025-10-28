@@ -1,1 +1,1 @@
-First TOP project. 
+First TOP project. Assignment to make a "Recipes" webpage containing three different recipes. Focus on basic HTML elements. 
